@@ -1,7 +1,7 @@
 ## Oi! Me chamo Alanna! ✨
 <div style="display: inline_block"><br>
 
-- 📚 Estudante de Engenharia de Software
+- 📚 Estudante de Engenharia de Software.
 
 ## Tecnologias 👩🏻‍💻
 
