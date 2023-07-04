@@ -1,4 +1,4 @@
-## Oi! Me chamo Alanna! ✨
+## Olá! Me chamo Alanna! ✨
 <div style="display: inline_block"><br>
 
 - 📚 Estudante de Engenharia de Software.
