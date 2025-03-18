@@ -2,7 +2,7 @@
 <div style="display: inline_block"><br>
 
 ## Sobre Mim 👩🏻‍💻
-- Olá! Sou Alanna, estudante de Engenharia de Software e profissional em transição de carreira para a área de tecnologia. Formada em Publicidade e Propaganda, atualmente estou cursando Engenharia de Software.
+- Olá! Sou Alanna, estudante de Engenharia de Software e profissional em transição de carreira para a área de tecnologia. Formada em Publicidade e Propaganda, atualmente estou cursando Engenharia de Software e trabalho como Desenvolvedora Front-End.
 
 ## Habilidades Técnicas 
 - Linguagens e Tecnologias: CSS, HTML, JavaScript, React, TypeScript, Node.js
